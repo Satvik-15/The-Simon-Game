@@ -12,3 +12,9 @@ Level2: Green      >>User clicks [Yellow,Green]
 Level3: Green      >>User clicks [Yellow,Green,Green]
 
 and any mistake on remembering the correct pattern will end the game. 
+
+### Tech Used:
+
+* HTML
+* CSS
+* Javascript 
